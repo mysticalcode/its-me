@@ -1,6 +1,10 @@
 # Hello, geeks! 👋
 
-I am _Ram Kaurav_. I am currently pursuing  Bachelor of Technology focused in Computer Science and engineering from _Institute of Engineering and Technology DAVV_. I am an  developer skilled in C++, Python, Data Analysis,  Machine learning ,Python Frameworks(pandas ,Numpy ,Tensorflow ,Keras). My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+👋 I’m Ram Kaurav, a seasoned Full-Stack Software Engineer with over 2 years of experience in web development, system architecture, and machine learning. I specialize in ReactJS and have developed 50+ UI components to enhance user experience and engagement. My passion lies in creating efficient, user-friendly applications that solve real-world problems.
+
+🚀 I’ve also successfully built a customer support-focused Chrome extension, streamlining operational workflows and increasing user satisfaction. When I’m not coding, you’ll find me exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
+
+🌟 Connect with me on LinkedIn or drop me an email. Let’s collaborate and create amazing software together! 🤝
 
 ### 😄 Pronouns
 Programmer/him /deep learner
