@@ -2,8 +2,7 @@
 
 👋 I’m Ram Kaurav, a seasoned Full-Stack Software Engineer with over 2 years of experience in web development, system architecture, and machine learning. I specialize in ReactJS and have developed 50+ UI components to enhance user experience and engagement. My passion lies in creating efficient, user-friendly applications that solve real-world problems.
 
-🚀 I’ve also successfully built a customer support-focused Chrome extension, streamlining operational workflows and increasing user satisfaction. When I’m not coding, you’ll find me exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
-
+🚀 I’ve also successfully built a customer support-focused Chrome extension, streamlining operational workflows and increasing user satisfaction. 
 🌟 Connect with me on LinkedIn or drop me an email. Let’s collaborate and create amazing software together! 🤝
 
 ### 😄 Pronouns
